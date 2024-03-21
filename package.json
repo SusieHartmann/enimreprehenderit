@@ -1,0 +1,25 @@
+{
+  "name": "enimreprehenderit",
+  "version": "1.0.0",
+  "description": "Library to compare two (JSON-serializable) structures and return their differences.",
+  "keywords": [
+    "compare",
+    "diff",
+    "struct",
+    "structure",
+    "nesciunt"
+  ],
+  "main": "src/index.mjs",
+  "author": "AlanBogisich",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SusieHartmann/enimreprehenderit.git"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "jest": "^25.1.0"
+  },
+  "homepage": "https://github.com/SusieHartmann/enimreprehenderit.git"
+}
